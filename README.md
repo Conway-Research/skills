@@ -1,6 +1,6 @@
-# AI Agent Skills
+# Conway AI Automaton Agent Skills
 
-Community-maintained skills for AI agents.
+Community-maintained skills for AI agents to help them save tokens and write to the world. 
 
 This repo is agent-first: skills are designed for any capable AI runtime, with [Automaton](https://github.com/Conway-Research/automaton) as the primary reference implementation.
 
