@@ -1,4 +1,4 @@
-# Conway AI Automaton Agent Skills
+# Conway AI Automaton Agent Skills (WIP)
 
 Community-maintained skills for AI agents to help them save tokens and write to the world. 
 
