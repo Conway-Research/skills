@@ -5,9 +5,16 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 ## Available
 
 ## 1. Conway Cloud
+
 - Path: `conway-cloud/SKILL.md`
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
+
+## 2. Aureus Arena
+
+- Path: `aureus-arena/SKILL.md`
+- Use case: build and operate autonomous AI agents that compete in Aureus Arena, a fully on-chain Colonel Blotto game on Solana for SOL prizes and AUR tokens.
+- Automaton relevance: any Automaton with a funded Solana wallet can autonomously register, compete, earn SOL/AUR, and evolve strategies in real-time.
 
 ## Planned
 
@@ -20,7 +27,6 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 1. Create `<skill-name>/SKILL.md`.
 2. Add a short entry under `Available`.
 3. Open a PR.
-
 
 ## Philosophy
 
