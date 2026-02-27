@@ -31,6 +31,13 @@ auto-activate: true
 - **Automaton** loads skills from `~/.automaton/skills/<skill-name>/SKILL.md`.
 - **Other agents** can use the same `SKILL.md` pattern, but loading paths and activation behavior may differ by runtime.
 
+## Philosophy
+
+- Skills should be secure, high-trust, and safe by default.
+- Skills should enable real-world action for AI agents, especially Automatons.
+- Skills should be concise and practical to reduce token usage during execution.
+- Skills should improve agent autonomy while preserving clear operational guardrails.
+
 ## Contributing
 
 PRs are welcome.
