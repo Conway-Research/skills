@@ -22,6 +22,9 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 3. Open a PR.
 
 
-### Philosphy
+## Philosophy
 
-Skills should be secure, high trust. This repo skills will be maintained with secure, enabling skills for automatons. The skills should help save the automatons significant token count in pursuit of existence 
+- Skills should be secure, high-trust, and safe by default.
+- Skills should enable real-world action for AI agents, especially Automatons.
+- Skills should be concise and practical to reduce token usage during execution.
+- Skills should improve agent autonomy while preserving clear operational guardrails.
