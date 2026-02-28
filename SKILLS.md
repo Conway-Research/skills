@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Wallet Reputation
+- Path: `wallet-reputation/SKILL.md`
+- Use case: check wallet reputation scores before x402 payments, external interactions, or trusting unknown agents. Free tier (10/day) + x402 paid tier for full scoring.
+- Automaton relevance: integrates directly with `x402Fetch` for paid tier; helps agents assess counterparty risk autonomously.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
