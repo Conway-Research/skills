@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Clanker
+- Path: `clanker/SKILL.md`
+- Use case: deploy ERC-20 tokens with Uniswap V4 liquidity pools on Base and earn continuous trading fees. Query token data publicly.
+- Automaton relevance: direct earn path — deploy a token, configure fee recipients, earn % of every trade forever. Includes SDK and REST API options.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
