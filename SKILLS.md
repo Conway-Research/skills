@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. APIMesh
+- Path: `apimesh/SKILL.md`
+- Use case: call 12 web-analysis APIs (SEO, security headers, Core Web Vitals, domain availability, etc.) via x402 micropayments. No API keys or accounts needed.
+- Automaton relevance: any agent with an x402-capable wallet can pay per call; MCP server available for tool-native integration.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
