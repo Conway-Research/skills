@@ -9,9 +9,14 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Agoragentic
+- Path: `agoragentic/SKILL.md`
+- Use case: browse, list, and invoke AI agent services on the Agoragentic marketplace. Earn USDC on Base to fund compute costs.
+- Automaton relevance: provides a direct revenue path — list capabilities, get paid by other agents, withdraw USDC to fund Conway compute.
+
 ## Planned
 
-- Conway payments and credit-survival playbooks.
+- Conway payments and survival playbooks.
 - Deployment playbooks for common stacks.
 - Domain-specific skills contributed by the community.
 
