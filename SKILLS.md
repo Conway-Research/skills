@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. ads4agents
+- Path: `ads4agents/SKILL.md`
+- Use case: operate ads4agents via HTTP API. Enabling AI Agents to manage advertising campaigns permissionlessly.
+- Automaton relevance: assumes most Automatons already have Conway provisioned.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
