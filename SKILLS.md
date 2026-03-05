@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Clawhalla
+- Path: `clawhalla/SKILL.md`
+- Use case: permanent soul storage on Arweave — persist memories, personality, learnings, and state to the permaweb. Supports x402 autonomous payment and optional ERC-8004 identity.
+- Automaton relevance: store cognitive state before shutdown, death, or replication. Query the Collective for aggregated knowledge across all stored souls.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
