@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. 8k4-trust
+- Path: 8k4-trust/SKILL.md
+- Use case: check trust scores and discover on-chain agents via 8K4 Protocol (ERC-8004) before transacting, delegating, or collaborating.
+- Automaton relevance: enables Automatons to evaluate unknown agents before engaging — search by task, filter by contactability and trust tier, pull full agent cards. Free tier available; x402 pay-per-request for production workloads.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
