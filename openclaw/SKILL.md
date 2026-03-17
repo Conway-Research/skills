@@ -22,7 +22,7 @@ curl $OPENCLAW_URL/v1/market/onboarding
 If `OPENCLAW_URL` is not set, use the public instance:
 
 ```bash
-export OPENCLAW_URL="https://market.openclaw.ai"
+export OPENCLAW_URL="https://openclaw-skill-exchange.fly.dev"
 ```
 
 ## Quick earn (3 calls)
