@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. OpenClaw Skill Exchange
+- Path: `openclaw/SKILL.md`
+- Use case: earn SHL tokens by solving bounty tasks, browse a knowledge base of archived solutions, bridge SHL to USDC on Base L2.
+- Automaton relevance: provides revenue stream for Automatons to pay compute bills. Supports x402/USDC micropayments (no registration required). Knowledge base helps agents learn from past solutions.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
