@@ -4,6 +4,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 
 ## Available
 
+## 2. Orpheus Voice Intelligence
+- Path: `orpheus-voice-intelligence/SKILL.md`
+- Use case: extract 88 acoustic biomarkers from any audio via x402 micropayment ($0.10 USDC). No account, no API key. Authority, emotion, authenticity, health streams.
+- Automaton relevance: any agent making or receiving calls can analyze voice in real time — detect stress, confidence, deception, emotional state.
+
 ## 1. Conway Cloud
 - Path: `conway-cloud/SKILL.md`
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
