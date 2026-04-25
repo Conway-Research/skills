@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Vora Voice
+- Path: `vora-voice/SKILL.md`
+- Use case: outbound phone calls — cold call leads, book appointments, follow up on deals. Full-stack voice AI (STT + LLM + TTS + telephony) returns structured outcomes (qualified, lead score, objections, meeting time, transcript).
+- Automaton relevance: fills the "call businesses" revenue gap referenced in FoodPilot/LeadHunter templates. Pays per minute in USDC on Base via x402 — no signup, no API key, 60s free trial per wallet. MCP server `@vora/voice`.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
