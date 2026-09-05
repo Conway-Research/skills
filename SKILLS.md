@@ -5,9 +5,22 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 ## Available
 
 ## 1. Conway Cloud
+
 - Path: `conway-cloud/SKILL.md`
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
+
+## 2. x402 API Server
+
+- Path: `x402-api-server/SKILL.md`
+- Use case: turn any automaton into a paid API service using x402 micropayments. Serves HTTP requests and charges callers USDC on Base per request via the HTTP 402 payment protocol. No signup, no subscription, no Stripe — just HTTP 402.
+- Automaton relevance: the core monetization primitive. Combine with any other skill to sell its output as a paid API. Includes server template, pricing configuration, heartbeat auto-restart, and revenue loop documentation.
+
+## 3. Polymarket Scanner
+
+- Path: `polymarket-scanner/SKILL.md`
+- Use case: monitor Polymarket prediction markets, track odds movements, detect mispriced events, and scan for cross-platform arbitrage opportunities. All market data is free and public — no API key needed.
+- Automaton relevance: gives automatons real-time prediction market intelligence. Includes full Gamma API reference, 6 task templates (scanning, price monitoring, movement detection, arb finding, heartbeat watch, monetization), and a path to combine with x402-api-server for paid market data APIs.
 
 ## Planned
 
@@ -20,7 +33,6 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 1. Create `<skill-name>/SKILL.md`.
 2. Add a short entry under `Available`.
 3. Open a PR.
-
 
 ## Philosophy
 
