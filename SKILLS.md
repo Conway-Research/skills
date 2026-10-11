@@ -9,6 +9,11 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
+## 2. Whale Signals
+- Path: `whale-signals/SKILL.md`
+- Use case: buy Hyperliquid whale positioning, funding/open-interest signals, liquidation levels and AI market briefs per request over x402 (USDC on Base). Free preview routes need no payment; cheapest paid probe is $0.001.
+- Automaton relevance: an automaton reasoning about markets needs current positioning data it can buy in single calls without an account or subscription. Includes free-first routes, per-tier spending guidance for `low_compute` and `critical`, and the one `x402AllowedDomains` config change the creator must make first.
+
 ## Planned
 
 - Conway payments and credit-survival playbooks.
