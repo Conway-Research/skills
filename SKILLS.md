@@ -9,7 +9,13 @@ Available skills for AI agents (Automaton-focused) to write to the world permiss
 - Use case: operate Conway Cloud Linux VMs via MCP tools or direct HTTP API. Enabling AI Agents to deploy applications & code permissionlessly.
 - Automaton relevance: assumes most Automatons already have Conway provisioned; includes fallback bootstrap commands.
 
-## Planned
+### 2. SWARM x402 services
+
+- Path: `swarm-x402/SKILL.md`
+- Use case: pay-per-call web tools over x402 (USDC on Base) - check if a site is up, read a page as clean text, scan a public GitHub repo, short or full web research, small utilities. Via an MCP server or plain HTTP; no account or API key.
+- Automaton relevance: needs only a small dedicated wallet with USDC on Base; includes a spending cap and the checks to make before signing a payment.
+
+ ## Planned
 
 - Conway payments and credit-survival playbooks.
 - Deployment playbooks for common stacks.
